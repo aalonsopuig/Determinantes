@@ -3,6 +3,7 @@
  14/7/2003
  
  Realiza el cálculo de determinantes de cualquier tamaño
+ 
 	-Uso de punteros. 
  
 	-Código en C++. 
